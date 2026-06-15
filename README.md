@@ -125,8 +125,8 @@ Total Automated Tests: **9 Passed**
 
 ## Author
 
-Keerthana Tatikonda
+Lakshmi Keerthana Tatikonda
 
 M.S. Computer Science
 
-Software Development | Data Analytics | Quality Assurance
+Data Analytics | Quality Assurance
